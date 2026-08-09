@@ -1,0 +1,28 @@
+body {
+    background-color: #f2f5f9;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.tarjeta {
+    background-color: #ffffff;
+    padding: 40px 50px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 500px;
+}
+
+.tarjeta h1 {
+    color: #2c5f8a;
+    margin-bottom: 15px;
+}
+
+.tarjeta p {
+    color: #555555;
+    line-height: 1.5;
+}
